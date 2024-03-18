@@ -1,5 +1,10 @@
 # React + Vite
 
+
+Crud Operation Project  
+This is With help create Vite + React js  
+for intiallation 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
